@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ManimozhiS/amazon_clone/static/css/main.4b3298c1.chunk.css",
-    "main.js": "/ManimozhiS/amazon_clone/static/js/main.bf829cec.chunk.js",
-    "main.js.map": "/ManimozhiS/amazon_clone/static/js/main.bf829cec.chunk.js.map",
-    "runtime-main.js": "/ManimozhiS/amazon_clone/static/js/runtime-main.b4fb7375.js",
-    "runtime-main.js.map": "/ManimozhiS/amazon_clone/static/js/runtime-main.b4fb7375.js.map",
-    "static/js/2.26eb42a5.chunk.js": "/ManimozhiS/amazon_clone/static/js/2.26eb42a5.chunk.js",
-    "static/js/2.26eb42a5.chunk.js.map": "/ManimozhiS/amazon_clone/static/js/2.26eb42a5.chunk.js.map",
-    "index.html": "/ManimozhiS/amazon_clone/index.html",
-    "static/css/main.4b3298c1.chunk.css.map": "/ManimozhiS/amazon_clone/static/css/main.4b3298c1.chunk.css.map",
-    "static/js/2.26eb42a5.chunk.js.LICENSE.txt": "/ManimozhiS/amazon_clone/static/js/2.26eb42a5.chunk.js.LICENSE.txt"
+    "main.css": "/amazon_clone/static/css/main.4b3298c1.chunk.css",
+    "main.js": "/amazon_clone/static/js/main.ca972115.chunk.js",
+    "main.js.map": "/amazon_clone/static/js/main.ca972115.chunk.js.map",
+    "runtime-main.js": "/amazon_clone/static/js/runtime-main.fedd9d89.js",
+    "runtime-main.js.map": "/amazon_clone/static/js/runtime-main.fedd9d89.js.map",
+    "static/js/2.1f51902a.chunk.js": "/amazon_clone/static/js/2.1f51902a.chunk.js",
+    "static/js/2.1f51902a.chunk.js.map": "/amazon_clone/static/js/2.1f51902a.chunk.js.map",
+    "index.html": "/amazon_clone/index.html",
+    "static/css/main.4b3298c1.chunk.css.map": "/amazon_clone/static/css/main.4b3298c1.chunk.css.map",
+    "static/js/2.1f51902a.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.1f51902a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4fb7375.js",
-    "static/js/2.26eb42a5.chunk.js",
+    "static/js/runtime-main.fedd9d89.js",
+    "static/js/2.1f51902a.chunk.js",
     "static/css/main.4b3298c1.chunk.css",
-    "static/js/main.bf829cec.chunk.js"
+    "static/js/main.ca972115.chunk.js"
   ]
 }
